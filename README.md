@@ -72,7 +72,7 @@ Git | CI/CD Pipelines | Microservices Architecture | Data Pipelines | Machine Le
 
 ## 📢 Connect with Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](https://www.linkedin.com/in/yourprofile)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](https://www.linkedin.com/in/chandanbcsm012)  
 ✉️ **chandanresume@yahoo.com**
 
 ---
