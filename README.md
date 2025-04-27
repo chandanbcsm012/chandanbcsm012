@@ -1,13 +1,12 @@
-# 👨‍💻 Chandan | Python Developer | Tech Lead
-
-📍 **Greater Noida, India**  
-📩 **chandanresume@yahoo.com**  
 
 ---
 
 <img src="https://drive.google.com/uc?id=1oclyV0bUPUiq1CQyeutIKNHqQbcF4pVI" alt="Chandan's GitHub Banner" />
 
 ---
+👨‍💻 Chandan | Python Developer | Tech Lead
+
+📍 Greater Noida, India📩 chandanresume@yahoo.com
 
 ## 🚀 About Me
 A passionate **Python Developer** with **7 years of experience** in building **large-scale applications**, **data processing pipelines**, and integrating **AI/ML, LLMs, and Generative AI** solutions.  
@@ -21,10 +20,10 @@ I love designing **scalable architectures** and delivering **high-quality** soft
 ### 🏢 **Technical Lead** | HCLTech | Noida, India  
 *(Nov 2022 – Present)*
 - Developed a **Retrieval-Augmented Generation (RAG)** system with **GPT-4** for intelligent audit report generation.
-- Built **Django REST APIs** for frontend integration, significantly improving **data accessibility**.
+- Built **Django REST APIs** for frontend integration, significantly improving **data accessibility**, payment gateway integration.
 - Optimized query performance using **CTE** and **multilevel partitioning** for **14+ billion records** in PostgreSQL.
 - Designed **dynamic APIs** with custom view and filterset mixins.
-- **Tech Stack:** Python, Django, DRF, PostgreSQL, AWS, Airflow, Snowflake, PySpark.
+- **Tech Stack:** Python, Django, DRF, PostgreSQL, AWS, Airflow, Snowflake, PySpark, GenAI, LLM, LangChain, VectorDB.
 
 ### 🏢 **Team Lead** | Chetu | Noida, India  
 *(Sep 2020 – Nov 2022)*
