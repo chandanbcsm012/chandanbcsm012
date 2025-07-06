@@ -7,6 +7,14 @@
 👨‍💻 Chandan | Python Developer | Tech Lead
 
 📍 Greater Noida, India📩 chandanresume@yahoo.com
+---
+## 🚀 Career Consultation Page
+
+📌 [Click here to visit the consultation page](https://chandanbcsm012.github.io/consultation-page/)
+
+Get career advice, mentorship, and counseling directly from Chandan. Choose your package, pay via UPI, and connect via WhatsApp.
+
+---
 
 ## 🚀 About Me
 A passionate **Python Developer** with **7 years of experience** in building **large-scale applications**, **data processing pipelines**, and integrating **AI/ML, LLMs, and Generative AI** solutions.  
