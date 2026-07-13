@@ -4,9 +4,9 @@
 <img src="https://drive.google.com/uc?id=1oclyV0bUPUiq1CQyeutIKNHqQbcF4pVI" alt="Chandan's GitHub Banner" />
 
 ---
-👨‍💻 Chandan | Python Developer | Tech Lead
+👨‍💻 Chandan | Python Developer | GenAI Engineer| Tech Lead
 
-📍 Greater Noida, India📩 chandanresume@yahoo.com
+📍  Noida, India📩 chandanresume@yahoo.com
 ---
 
 ## 🚀 About Me
