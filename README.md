@@ -157,10 +157,10 @@ class Chandan:
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=chandanbcsm012&show_icons=true&theme=tokyonight&hide_border=true" width="49%" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=chandanbcsm012&theme=tokyonight&hide_border=true" width="49%" />
+<img src="https://github-readme-stats-xyz.vercel.app/api?username=chandanbcsm012&show_icons=true&theme=tokyonight&hide_border=true" width="49%" />
+<img src="https://github-readme-streak-stats-eight.vercel.app/?user=chandanbcsm012&theme=tokyonight&hide_border=true" width="49%" />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chandanbcsm012&layout=compact&theme=tokyonight&hide_border=true" width="49%" />
+<img src="https://github-readme-stats-xyz.vercel.app/api/top-langs/?username=chandanbcsm012&layout=compact&theme=tokyonight&hide_border=true" width="49%" />
 
 </div>
 
